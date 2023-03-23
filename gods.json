@@ -1,20 +1,20 @@
 [
   {
-    "name": "Surtr",
-    "title": "Le géant de feu",
-    "banner": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2560x917_Surtr.jpg",
+    "name": "Martichoras",
+    "title": "Le roi manticore",
+    "banner": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2560x917_manticoreking.jpg",
     "specifications": [
       {
-        "name": "Guerrier",
-        "iconHtml": "&#59688"
+        "name": "Chasseur",
+        "iconHtml": "&#59689"
       },
       {
-        "name": "Nordique",
-        "iconHtml": "&#59686"
+        "name": "Grec",
+        "iconHtml": "&#59685"
       },
       {
-        "name": "Mêlée",
-        "iconHtml": "&#59663"
+        "name": "À distance",
+        "iconHtml": "&#59665"
       },
       {
         "name": "Physique",
@@ -23,102 +23,100 @@
     ],
     "abilities": [
       {
-        "video": "https://www.youtube-nocookie.com/embed/HREETMfIo8c?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
-        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/flames-of-muspell.jpg",
+        "video": "https://www.youtube-nocookie.com/embed/akw_XO9F17o?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/acid-rain.jpg",
         "key": "1",
-        "name": "Flammes de Muspell",
+        "name": "Pluie acide",
         "description": {
-          "text": "Surtr enflamme son épée et profite alors de l'effet d'Accélération. Sa prochaine attaque de base réussie inflige des dégâts magiques supplémentaires et embrase sa cible. Celle-ci subit des dégâts périodiques et fait apparaître un diablotin de feu.\n\nLes dégâts de l'attaque de base augmentent chaque fois qu'un ennemi meurt tout en étant atteint par la brûlure (200 charges au max.).",
+          "text": "Martichoras tire des centaines de pointes avec ses ailes. Elles retombent progressivement en formant une ligne droite. Elles infligent des dégâts et laissent derrière elles une zone toxique qui ralentit les ennemis et inflige des dégâts périodiques.",
           "details": [
-            "Dégâts périodiques : 10/25/40/55/70 (10% de la puissance physique) par seconde pendant 3s",
-            "Dégâts initiaux : 30 + 3 par charge (magiques)",
-            "Dégâts du diablotin : 10/15/20/25/30 (10% de la puissance physique)",
-            "PV du diablotin : 50 + 50 par rang",
-            "Durée du diablotin : 10s"
+            "Dégâts à l'impact : 80/120/160/200/240 (70% de la puissance physique)",
+            "Dégâts périodiques toutes les 0,5s : 6/10/14/18/22 (10% de la puissance physique)",
+            "Ralentissement : 25/27.5/30/32.5/35%",
+            "Durée de la zone toxique : 3s"
           ]
         }
       },
       {
-        "video": "https://www.youtube-nocookie.com/embed/D8crZEoqk_I?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
-        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/giants-grasp.jpg",
+        "video": "https://www.youtube-nocookie.com/embed/vzIa9a-CkIA?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/poisoned-barb.jpg",
         "key": "2",
-        "name": "Prodigieuse poigne",
+        "name": "Aiguillon empoisonné",
         "description": {
-          "text": "Surtr attire jusqu'à lui le sbire de couloir adverse ou le diablotin de feu le plus proche (s'il n'y en a aucun à portée, il attire une pierre volcanique). Ensuite, il propulse cette cible vers l'avant pour infliger des dégâts et étourdir les ennemis atteints.\n\nPierre volcanique – S'arrête au premier ennemi percuté.\nSbire de couloir – Traverse les sbires, s'arrête au premier dieu percuté.\nDiablotin de feu – Traverse les sbires, s'arrête au premier dieu percuté et explose.",
+          "text": "Martichoras tire un aiguillon qui inflige des dégâts, transperce les sbires et s'arrête au premier dieu atteint. Il reste fiché dans ce dieu pendant 3s en réduisant ses soins reçus. S'il n'a pas atteint de dieu, il reste par terre. Si Martichoras l'atteint avec une attaque de base ou une compétence, il explose. Il inflige alors des dégâts et un enracinement, et applique de nouveau le malus de soin.",
           "details": [
-            "Dégâts : 90/145/200/255/310 (70% de la puissance physique)",
-            "Dégâts d'explosion en zone : 30/60/90/120/150 (30% de la puissance physique)",
-            "Étourdissement : 1.2s"
+            "Dégâts à l'impact : 45/80/115/150/185 (+55% de la puissance physique)",
+            "Dégâts à l'explosion : 30/65/100/135/170 (50% de la puissance physique)",
+            "Durée de l'enracinement : 1/1.2/1.4/1.6/1.8s",
+            "Réduction des soins : 50% pendant 5s"
           ]
         }
       },
       {
-        "video": "https://www.youtube-nocookie.com/embed/xtDoeUqn0xU?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
-        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/emberwalk.jpg",
+        "video": "https://www.youtube-nocookie.com/embed/9Qzrxq9_dNU?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/stalk-prey.jpg",
         "key": "3",
-        "name": "Marchebraise",
+        "name": "Chasse au gros gibier",
         "description": {
-          "text": "La furie de Surtr matérialise des braises en cercle autour de lui. La zone formée donne un bonus de vitesse de déplacement, qui augmente quand Surtr atteint des ennemis.\nLe cercle inflige des dégâts et ralentit les ennemis une première fois quand il s'élargit, puis une seconde fois quand il se rétracte.\nUne fois formé, le cercle extérieur inflige des dégâts aux ennemis présents. Il récupère automatiquement les morceaux de Chair d'obsidienne.",
+          "text": "Martichoras fait apparaître une parcelle de hautes herbes. À l'intérieur, lui et ses alliés sont invisibles. Martichoras profite aussi d'un bonus de vitesse. Quand il est invisible, son attaque de base applique 8 charges de venin. Les ennemis peuvent révéler les occupants des hautes herbes en y entrant ou bien en déposant une sentinelle à l'intérieur.",
           "details": [
-            "Dégâts : 45/65/85/105/125 (20% de la puissance physique)",
-            "Dégâts bonus : 10/15/20/25/30 (+5% de la puissance physique)",
-            "Bonus de vitesse : 10% + 5% par ennemi atteint (cumulable 4 fois)",
-            "Malus de vitesse : 20% pendant 2s",
-            "Durée : 4s"
+            "Durée de l'herbe : 180s",
+            "Nombre max. de parcelles : 3",
+            "Bonus de vitesse de déplacement : 20/25/30/35/40% pendant 3s"
           ]
         }
       },
       {
-        "video": "https://www.youtube-nocookie.com/embed/JVAm2V7becE?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
-        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/end-of-days.jpg",
+        "video": "https://www.youtube-nocookie.com/embed/uhIhK3Eu6aQ?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/death-from-above.jpg",
         "key": "4",
-        "name": "Fin des temps",
+        "name": "Prédateur des cieux",
         "description": {
-          "text": "Après un bref délai, Surtr s'élève dans les airs et se transforme en un immense météore immunisé aux dégâts. Il contrôle sa trajectoire.\n\nDes météorites se détachent de lui en infligeant des dégâts et libérant des diablotins de feu.\n\nÀ l'atterrissage, le météore inflige des dégâts et projette les ennemis atteints.",
+          "text": "Immunisé aux contrôles et intouchable, Martichoras s'élève dans les airs et crache 12 projectiles toxiques en 3s. Ils infligent des dégâts et réduisent la protection physique.",
           "details": [
-            "Dégâts : 210/285/360/435/510 (60% de la puissance physique)",
-            "Dégâts des météorites : 50/75/100/125/150 (+15% de la puissance physique)"
+            "Dégâts de chaque projectile : 35/50/65/80/95 (20% de la puissance physique)",
+            "Malus de protection physique : 5% cumulable 8 fois",
+            "Durée du malus : 4s"
           ]
         }
       },
       {
-        "video": "https://www.youtube-nocookie.com/embed/7r9lm0lgo-E?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
-        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/obsidian-flesh.jpg",
+        "video": "https://www.youtube-nocookie.com/embed/UYnOkOKcOWs?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/monstrosity.jpg",
         "key": "Passif",
-        "name": "Chair d'obsidienne",
+        "name": "Monstruosité",
         "description": {
-          "text": "La chair de Surtr tombe en morceaux quand il perd une certaine quantité de PV. Il peut alors les ramasser pour obtenir un soin et un bonus de protections pendant 3s (cumulable 3 fois). Ses adversaires détruisent les morceaux quand ils marchent dessus.",
+          "text": "Les attaques de base et compétences de Martichoras ainsi que les éliminations et assistances qu'il effectue font monter sa férocité. Une fois à 100 charges, il les perd toutes et obtient un bonus de vitesse d'attaque, qui se prolonge quand son attaque de base atteint un dieu. Il obtient alors aussi une charge permanente de 1% de drain de vie et drain de vie de comp.",
           "details": [
-            "Soins périodiques : 1% des PV max",
-            "Protections : 10 + 1 par niveau",
-            "Seuil de PV : 15%"
+            "Vitesse d'attaque : 15% +1% par niveau pendant 6s. jusqu'à 12s",
+            "Max. de charges permanentes : 30"
           ]
         }
       }
     ],
     "history": {
-      "video": "https://www.youtube-nocookie.com/embed/pE4zAZwVWBc",
-      "text": "On sait peu de choses à propos de Surtr, le géant de feu. Ses origines sont nimbées dans la fumée des forges ; ses secrets reposent dans les cendres de son royaume ardent. Même l'omniscient Odin ne sait quelle étincelle a allumé le feu de Surtr. Il connaît toutefois son destin. C'est celui de tous les dieux et de tous les humains, car Surtr est l'incarnation même du feu qui réduira l'ancien monde en cendres afin qu'un nouveau le remplace.La légende veut que lorsque le puissant Surtr quittera son poste à la frontière de Muspell, les cieux s'effondreront, la terre brûlera et les guerriers marcheront sous les ordres de Hel. Brandissant son épée éclatante, Surtr mènera alors les fils de Muspell au combat contre les dieux nordiques... et triomphera, plongeant le monde dans ses flammes.Mais en attendant ce jour, Surtr monte la garde contre quiconque ose envahir les terres de son peuple, mortel ou non. Or, au fil des millénaires, bien des dieux sont entrés sur son territoire. Certains pour accomplir une quête, d'autres pour relever un défi. Ces incursions dans Muspell pourraient bien avoir été encouragées par Odin, afin de mettre à l'épreuve la vigilance de Surtr. On raconte aussi que les dieux nordiques tenteraient d'affaiblir Surtr avec des batailles incessantes. Quoi qu'il en soit, le géant de feu a affronté les immortels à maintes reprises, goûtant bien souvent à la défaite.Sans cesse, Surtr tombe au combat mais se relève plus fort, telle une flamme ravivée. À chaque revers, son courroux gagne en ardeur... tout comme ses velléités guerrières à l'encontre de ses geôliers, ceux qui voudraient le maintenir, lui et tout son peuple, en captivité pour l'éternité. Alors bientôt – et peut-être plus tôt que ne le pensent les dieux – Surtr quittera son poste et déclenchera la fin du monde."
+      "video": "https://www.youtube-nocookie.com/embed/Fk27PNJ-VUQ",
+      "text": "L'origine des manticores est un mystère, même pour les dieux. Certains racontent qu'il s’agirait des enfants de Tiamat, engendrés par ses flux cosmiques, libres de parcourir le monde et ses contrées les plus reculées. D’autres pensent que les manticores seraient les gardiennes d'antiques trésors. Mais tous s'accordent sur le fait que ces créatures sont de redoutables mangeuses d'hommes, aussi voraces que féroces. C'est d'autant plus vrai pour leur roi autoproclamé, Martichoras. Martichoras est le premier d'entre toutes les manticores, le plus fort et le plus âgé de leurs rangs. C'est lui qui a sillonné le monde en premier, une fois hors des eaux de Tiamat. En tant qu'aîné de sa progéniture, il a ouvert la voie de la sauvagerie, celle que toutes les manticores ont suivie ensuite. C'est l'historien Ctesias qui le mentionne pour la première fois dans les annales grecques, toutefois on pense que les Perses le connaissaient déjà. Le roi Martichoras a arpenté d'innombrables terres et meurtri d'innombrables peuples, afin d'asseoir son emprise sur ses pairs. Ses exactions sont légendaires, même chez les dieux. Il s'est attiré le respect des autres manticores en faisant montre de sa force et de sa puissance, qu'elles considèrent comme des vertus. Parmi elles, certaines croient même que Martichoras a déjà affronté les dieux... et gagné la bataille. Sa puissance est en tout cas indéniable. Il impose sa domination sur toutes celles et ceux qu'il ne les dévore pas. Il a rôdé au cœur des jungles méridionales des siècles durant, engloutissant les malheureux qui croisaient son chemin. Les rares rescapés évoquent sa vitesse, son esprit rusé, et son absence totale de pitié. Pourtant, Martichoras s'est contenté de sa jungle... jusqu'à présent. En est-il sorti pour se venger des dieux qui ont massacré ses disciples ? S'il s'est lassé de chasser les humains, entend-il prendre les immortels pour cible ? Ou bien le temps est-il venu pour lui d'agrandir son territoire une nouvelle fois ? Une chose est sûre : pour Martichoras, la chasse est désormais ouverte. Ses proies feraient bien de redoubler de vigilance..."
     },
     "skins": [
       {
-        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_standard-surtr.jpg",
-        "name": "Surtr Standard",
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/martichoras_standard-martichoras.jpg",
+        "name": "Martichoras Standard",
         "type": "Normal"
       },
       {
-        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_ascended.jpg",
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/martichoras_ascended.jpg",
         "name": "Ascendance",
         "type": "Permanent"
       },
       {
-        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_golden.jpg",
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/martichoras_golden.jpg",
         "name": "Doré",
         "type": "Normal"
       },
       {
-        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_azure-flames.jpg",
-        "name": "Flammes d'azur",
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/martichoras_imperious.jpg",
+        "name": "Impérial",
         "type": "Normal"
       }
     ]
@@ -494,7 +492,7 @@
         "key": "1",
         "name": "Ruche",
         "description": {
-          "text": "À l'emplacement ciblé, des abeilles prolifèrent et construisent une ruche qui augmente la vitesse de déplacement et la vitesse d'attaque d'Ah Muzen Cab. Tant qu'il est à proximité, il regagne également un peu de vie chaque seconde.Les ruches révèlent les ennemis dans un rayon de 20 unités. Elles ne peuvent être détruites que par des attaques de base. Maximum : 7 ruches.",
+          "text": "À l'emplacement ciblé, des abeilles prolifèrent et construisent une ruche qui augmente la vitesse de déplacement et la vitesse d'attaque d'Ah Muzen Cab. Tant qu'il est à proximité, il regagne également un peu de vie chaque seconde. Les ruches révèlent les ennemis dans un rayon de 20 unités. Elles ne peuvent être détruites que par des attaques de base. Maximum : 7 ruches.",
           "details": [
             "Guérison : 4/6/8/10/12",
             "Vitesse de déplacement : 10/15/20/25/30%",
@@ -1407,7 +1405,7 @@
         "description": {
           "text": "L'épée d'Ao Kuang libère une tempête d'éclairs qui blesse tous les ennemis devant lui. Si Appel du dragon est actif, l'un des dragons accompagne l'attaque et inflige des dégâts supplémentaires.",
           "details": [
-            "Dégâts : 90/135/180/225/270 (+50% de la puissance magique)"
+            "Dégâts : 90/135/180/225/270 (+40% de la puissance magique)"
           ]
         }
       },
@@ -2313,7 +2311,7 @@
         "key": "4",
         "name": "Sanglier de Calydon",
         "description": {
-          "text": "Artémis invoque le puissant sanglier de Calydon, qui charge le dieu ennemi le plus proche, lui inflige des dégâts et l'étourdit. Le sanglier est aussi lui-même étourdi. Ensuite, il charge les autres dieux ennemis proches jusqu'à la fin de sa durée de vie. Avant d'avoir touché sa première cible, il est invulnérable.   À l'activation, Artémis est immunisée contre les effets de contrôle pendant 1,5s.",
+          "text": "Artémis invoque le puissant sanglier de Calydon, qui charge le dieu ennemi le plus proche, lui inflige des dégâts et l'étourdit. Le sanglier est aussi lui-même étourdi. Ensuite, il charge les autres dieux ennemis proches jusqu'à la fin de sa durée de vie. Avant d'avoir touché sa première cible, il est invulnérable. À l'activation, Artémis est immunisée contre les effets de contrôle pendant 1,5s.",
           "details": [
             "Dégâts : 150/225/300/375/450 (+100% de la puissance physique)",
             "Étourdissement : 1.1/1.2/1.3/1.4/1.5s",
@@ -2426,6 +2424,11 @@
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/artemis_stalker.jpg",
         "name": "Traqueuse",
         "type": "Exclusivité promotionnelle"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/artemis_vivien-reid.jpg",
+        "name": "Vivien Reid",
+        "type": "Crossover"
       }
     ]
   },
@@ -3734,7 +3737,7 @@
       {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/baron_samedi_golden-touch.jpg",
         "name": "Soirées dorées",
-        "type": "Exclusif"
+        "type": "Éd. limitée"
       },
       {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/baron_samedi_funny-bones.jpg",
@@ -4170,7 +4173,7 @@
           "details": [
             "Dégâts : 80/135/190/245/300 (+50% de la puissance magique)",
             "Durée de l'étourdissement : 1.1/1.2/1.3/1.4/1.5s",
-            "Protections par charge : 2/3/4/5/6. maximum de charges  5"
+            "Protections par charge : 2/3/4/5/6. et 5 charges au maximum"
           ]
         }
       },
@@ -4642,7 +4645,7 @@
         "description": {
           "text": "Cernunnos lance une épine en ligne droite qui inflige des dégâts, enracine et handicape l'ennemi touché. Quand elle atteint un dieu, un mur ou sa portée maximale, elle explose et génère un champ d'épines de 5s, qui inflige des dégâts toutes les 0,5s.",
           "details": [
-            "Dégâts : 70/105/140/175/210 (+75% de la puissance physique)",
+            "Dégâts : 55/90/125/160/195 (+75% de la puissance physique)",
             "Durée de l'enracinement et du handicap : 1s",
             "Dégâts du champ : 8/12/16/20/24 (+5% de la puissance physique)"
           ]
@@ -5613,6 +5616,11 @@
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/chronos_super-chronos-64.jpg",
         "name": "Super Chronos 64",
         "type": "Exclusif"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/chronos_teferi.jpg",
+        "name": "Téfeiri",
+        "type": "Crossover"
       }
     ]
   },
@@ -6643,7 +6651,7 @@
         "description": {
           "text": "Discordia lance la Pomme dorée de la discorde sur ses ennemis. Elle inflige des dégâts, traverse les sbires et rebondit contre les parois. Si elle atteint un dieu, il doit la garder en main.\nIl est alors handicapé et intoxiqué par ses propres vantardises.\nÀ la fin de l'effet, la pomme explose en infligeant des dégâts et en transmettant ses effets aux dieux proches.",
           "details": [
-            "Dégâts initiaux : 100/125/150/175/200 (+40% de la puissance magique)",
+            "Dégâts initiaux : 125/150/175/200/225 (+50% de la puissance magique)",
             "Dégâts d'explosion : 200/250/300/350/400 (+60% de la puissance magique)",
             "Effet initial : En zone. 2s",
             "Effet transmis : Cible unique. 3s"
@@ -6794,7 +6802,7 @@
         "key": "3",
         "name": "72 transformations",
         "description": {
-          "text": "Erlang Shen se transforme en vison ou en tortue et se rue vers l'avant, immunisé aux projections et aux ralentissements.Vison : la transformation prend fin au premier dieu touché et Erlang Shen inflige des dégâts aux ennemis proches. Ensuite, ses vitesses de déplacement et d'attaque augmentent pendant 4s.Tortue : bouclier de PV pendant 12s, renforcé par 75% des protections.",
+          "text": "Erlang Shen se transforme en vison ou en tortue et se rue vers l'avant, immunisé aux projections et aux ralentissements. Vison : la transformation prend fin au premier dieu touché et Erlang Shen inflige des dégâts aux ennemis proches. Ensuite, ses vitesses de déplacement et d'attaque augmentent pendant 4s. Tortue : bouclier de PV pendant 12s, renforcé par 75% des protections.",
           "details": [
             "Dégâts - tortue : 55/100/145/190/235 (+40% de la puissance physique)",
             "Bouclier - tortue : 50/100/150/150/250",
@@ -7727,7 +7735,7 @@
         "description": {
           "text": "Geb génère une onde de choc conique qui inflige des dégâts et projette les ennemis. Les dégâts infligés diminuent avec la distance, jusqu'à n'infliger que 70% de leur valeur normale à portée maximale.",
           "details": [
-            "Dégâts : 90/160/230/300/370 (+50% de la puissance magique)"
+            "Dégâts : 100/170/240/310/380 (+50% de la puissance magique)"
           ]
         }
       },
@@ -8221,7 +8229,7 @@
         "key": "4",
         "name": "Archer monté",
         "description": {
-          "text": "Hachiman enfourche son cheval et part au galop. Sur sa monture, il est immunisé aux effets de contrôle et peut viser indépendamment de la direction de son déplacement.  La touche d'attaque tire une flèche sur tous les dieux ennemis dans une zone conique, ce qui inflige des dégâts et ralentit.",
+          "text": "Hachiman enfourche son cheval et part au galop. Sur sa monture, il est immunisé aux effets de contrôle et peut viser indépendamment de la direction de son déplacement. La touche d'attaque tire une flèche sur tous les dieux ennemis dans une zone conique, ce qui inflige des dégâts et ralentit.",
           "details": [
             "Dégâts : 225/280/335/390/445 (+95% de la puissance physique)",
             "Ralentissement : 20/25/30/35/40%",
@@ -8538,7 +8546,7 @@
         "description": {
           "text": "Dans la zone ciblée, He Bo fait jaillir du sol un puissant geyser qui inflige des dégâts aux ennemis et les projette dans les airs.",
           "details": [
-            "Dégâts : 80/130/180/230/280 (+65% de la puissance magique)"
+            "Dégâts : 70/120/170/220/270 (+60% de la puissance magique)"
           ]
         }
       },
@@ -8883,6 +8891,11 @@
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/hel_inner-demon.jpg",
         "name": "Ange et démon",
         "type": "Éd. limitée"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/hel_aurora.jpg",
+        "name": "Aurora",
+        "type": "Promotionnel"
       },
       {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/hel_golden.jpg",
@@ -9392,6 +9405,11 @@
         "type": "Normal"
       },
       {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/horus_blood-raven.jpg",
+        "name": "Corbeau sanglant",
+        "type": "Exclusif"
+      },
+      {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/horus_golden.jpg",
         "name": "Doré",
         "type": "Normal"
@@ -9489,7 +9507,7 @@
         "key": "4",
         "name": "Briseur de soleils",
         "description": {
-          "text": "Hou Yi tire neuf flèches vers les cieux, et elles touchent chacune un soleil. Les neuf soleils s'écrasent un par un sur la zone ciblée, ralentissant les ennemis et infligeant des dégâts sur la durée.Les cibles marquées par le Corbeau doré sont ralenties de 20% de plus.",
+          "text": "Hou Yi tire neuf flèches vers les cieux, et elles touchent chacune un soleil. Les neuf soleils s'écrasent un par un sur la zone ciblée, ralentissant les ennemis et infligeant des dégâts sur la durée. Les cibles marquées par le Corbeau doré sont ralenties de 20% de plus.",
           "details": [
             "Dégâts toutes les 0,5s : 80/90/100/110/120 (+25% de la puissance physique)",
             "Durée : 4.5s",
@@ -9562,6 +9580,11 @@
       {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/hou_yi_winters-mark.jpg",
         "name": "Flèche de l'hiver",
+        "type": "Exclusif"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/hou_yi_techno-basher.jpg",
+        "name": "HD Yi",
         "type": "Exclusif"
       },
       {
@@ -9776,8 +9799,8 @@
           "text": "Ishtar imprègne ses flèches de lumière céleste pendant 6s. Elle choisit parmi trois modes d'attaques de base : Tir chandelle (projectile explosif suivant une trajectoire en cloche), Tir quintuple (cinq flèches) et Tir éclair (cadence rapide et portée augmentée). Pendant l'effet, elle ne peut pas attaquer de structures.",
           "details": [
             "Durée : 6s",
-            "Tir chandelle – dégâts bonus : 10/15/20/25/30",
-            "Tir quintuple – dégâts des flèches latérales : 5/6.25/7.5/8.75/10% des dégâts d'attaque de base",
+            "Tir chandelle – dégâts bonus : 8/13/18/23/28",
+            "Tir quintuple – dégâts des flèches latérales : 5/5.75/6.5/7.25/8% des dégâts d'attaque de base",
             "Tir éclair – Vitesse d'attaque : 20/25/30/35/40%"
           ]
         }
@@ -10022,6 +10045,11 @@
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/eset_scarlet-coven.jpg",
         "name": "Magie noire",
         "type": "Normal"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/eset_nissa-revane.jpg",
+        "name": "Nissa Revane",
+        "type": "Crossover"
       },
       {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/eset_desert-omen.jpg",
@@ -10427,7 +10455,7 @@
           "text": "Jing Wei crée une rafale de vent qui inflige des dégâts et projette les ennemis. Pendant 6s, la rafale continue à projeter et à infliger des dégâts toutes les 1s. Si Jing Wei pénètre dans la zone, elle est propulsée en l'air et gagne un bonus de vitesse d'attaque de 7s.",
           "details": [
             "Dégâts initiaux : 90/140/190/240/290 (90% de la puissance physique)",
-            "Dégâts périodiques : 10/20/30/40/50 (+5% de la puissance physique)",
+            "Dégâts périodiques : 15/25/35/45/55 (+5% de la puissance physique)",
             "Bonus de vitesse d'attaque : 20/25/30/35/40%"
           ]
         }
@@ -10496,6 +10524,11 @@
       {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/jing_wei_twilight-sky.jpg",
         "name": "Ange mystique",
+        "type": "Exclusif"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/jing_wei_bumble-bee.jpg",
+        "name": "Bourdon",
         "type": "Exclusif"
       },
       {
@@ -11425,6 +11458,11 @@
         "type": "Exclusivité de coffre"
       },
       {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/kumbhakarna_sir-snooze.jpg",
+        "name": "Sir Sieste",
+        "type": "Exclusif"
+      },
+      {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/kumbhakarna_pajama-party.jpg",
         "name": "Soirée pyjama",
         "type": "Normal"
@@ -11958,8 +11996,8 @@
         "description": {
           "text": "Maui lance un ulua formé d'eau magique qui explose au sol. Il confère un bonus de protections et de vitesse aux dieux alliés à moins de 35 unités, pendant 5s. L'ulua forme une colonne d'eau qui dure 10s. Quand un dieu allié y reste pendant 1s, une bulle le transporte vers Maui et il profite du bonus pendant 5s de plus. Si Maui sort de l'aura quand aucun dieu n'est dans la colonne d'eau, elle disparaît.",
           "details": [
-            "Bonus de protections : 5/10/15/20/25",
-            "Bonus de vitesse de déplacement : 4/8/12/16/20%",
+            "Bonus de protections : 15/20/25/30/35",
+            "Bonus de vitesse de déplacement : 8/9/10/11/12%",
             "Rayon de l'aura : 110"
           ]
         }
@@ -11972,7 +12010,7 @@
         "description": {
           "text": "Maui bondit et lance son crochet sur un rayon de soleil. Il se balance d'avant en arrière puis il saute. À l'atterrissage, il abat son crochet sur le sol, ce qui inflige des dégâts et étourdit les ennemis proches. La réactivation permet de sauter prématurément.",
           "details": [
-            "Dégâts : 110/165/220/275/335 (+60% de la puissance magique)",
+            "Dégâts : 90/145/200/255/315 (+60% de la puissance magique)",
             "Durée de l'étourdissement : 1.1/1.2/1.3/1.4/1.5s"
           ]
         }
@@ -12273,7 +12311,7 @@
         "key": "2",
         "name": "Vélocité maximale",
         "description": {
-          "text": "Passif - La vitesse de déplacement de Mercure augmente.\n\n\r\n\r\nActif - La vitesse d'attaque de Mercure augmente, il devient immunisé aux ralentissements et retire ceux qui l'affectent déjà.",
+          "text": "Passif - La vitesse de déplacement de Mercure augmente.\n\nActif - La vitesse d'attaque de Mercure augmente, il devient immunisé aux ralentissements et retire ceux qui l'affectent déjà.",
           "details": [
             "Vitesse de déplacement : 2/4/6/8/10%",
             "Vitesse d'attaque : 30/40/50/60/70%",
@@ -12848,6 +12886,11 @@
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/mulan_corrupted-kenshi.jpg",
         "name": "Kenshi corrompue",
         "type": "Exclusif"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/mulan_the-wandering-emperor.jpg",
+        "name": "L'Impératrice Vagabonde",
+        "type": "Crossover"
       },
       {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/mulan_aesir.jpg",
@@ -14536,7 +14579,7 @@
         "key": "3",
         "name": "Ruée magmatique",
         "description": {
-          "text": "Pélé expulse des flammes et du magma, ce qui inflige constamment des dégâts aux ennemis proches et lui donne un bonus de vitesse.\r\nRéactiver la compétence intensifie ses effets mais consomme plus de combustible. La commande d'annulation d'attaque met fin à l'effet.\r\nCette compétence n'a pas de temps de recharge mais consomme du combustible (combustible requis pour l'activation : 10).\r\nLes dégâts n'activent pas les effets d'objets déclenchés par des compétences.",
+          "text": "Pélé expulse des flammes et du magma, ce qui inflige constamment des dégâts aux ennemis proches et lui donne un bonus de vitesse.\nRéactiver la compétence intensifie ses effets mais consomme plus de combustible. La commande d'annulation d'attaque met fin à l'effet.\nCette compétence n'a pas de temps de recharge mais consomme du combustible (combustible requis pour l'activation : 10).\nLes dégâts n'activent pas les effets d'objets déclenchés par des compétences.",
           "details": [
             "Dégâts : 10/15/20/25/30 (+5% de la puissance physique)",
             "Vitesse : 30%",
@@ -14706,7 +14749,7 @@
             "Dégâts de l'explosion : 90/140/190/240/290 (+70% de la puissance magique)",
             "Soins des crânes : 22/29/36/43/50 (+10% de la puissance magique)",
             "Dégâts des fleurs : 40/75/110/145/180 (+30% de la puissance magique)",
-            "Diminution des dégâts successifs : 50/75/87.5%"
+            "Diminution des dégâts successifs : 50/75/87/5%"
           ]
         }
       },
@@ -15788,7 +15831,7 @@
         "key": "Passif",
         "name": "Suite de coups",
         "description": {
-          "text": "Les attaques de base et les compétences de Ravana réussies forment une chaîne de combo. À chaque combo de 8 coups, Ravana obtient 3% de vitesse de déplacement ainsi qu'un bouclier équivalant à 7% de sa santé maximale.L'effet est cumulable jusque 3 fois.",
+          "text": "Les attaques de base et les compétences de Ravana réussies forment une chaîne de combo. À chaque combo de 8 coups, Ravana obtient 3% de vitesse de déplacement ainsi qu'un bouclier équivalant à 7% de sa santé maximale. L'effet est cumulable jusque 3 fois.",
           "details": [
             "Charges maximum : 3"
           ]
@@ -16079,7 +16122,7 @@
         "key": "3",
         "name": "Sentinelle",
         "description": {
-          "text": "Passif - Scylla obtient des PM5.\r\nActif - Scylla invoque une sentinelle sur l'emplacement ciblé, ce qui lui permet de voir les ennemis pendant 5s. Réactiver la compétence dans les 5s suivantes téléporte Scylla sur la sentinelle.\r\n\r\nAu dernier rang, la sentinelle voit à travers les parois et sa portée d'invocation augmente.",
+          "text": "Passif - Scylla obtient des PM5. \n\nActif - Scylla invoque une sentinelle sur l'emplacement ciblé, ce qui lui permet de voir les ennemis pendant 5s. Réactiver la compétence dans les 5s suivantes téléporte Scylla sur la sentinelle. \n\nAu dernier rang, la sentinelle voit à travers les parois et sa portée d'invocation augmente.",
           "details": [
             "PM5 : 4/6/8/10/12",
             "Portée du champ de vision : 40/50/60/70/80",
@@ -16283,7 +16326,7 @@
         "key": "3",
         "name": "Embuscade",
         "description": {
-          "text": "Serqet disparaît et est enracinée. Elle peut effectuer un bond qui inflige des dégâts à ses ennemis.Elle demeure invisible jusqu'à ce qu'elle saute, annule la compétence, ou bien jusqu'à ce qu'un dieu ennemi se trouve à moins de 12,5 unités d'elle.",
+          "text": "Serqet disparaît et est enracinée. Elle peut effectuer un bond qui inflige des dégâts à ses ennemis. Elle demeure invisible jusqu'à ce qu'elle saute, annule la compétence, ou bien jusqu'à ce qu'un dieu ennemi se trouve à moins de 12,5 unités d'elle.",
           "details": [
             "Dégâts : 80/125/170/215/260 (+90% de la puissance physique)"
           ]
@@ -16880,7 +16923,7 @@
         "key": "1",
         "name": "Charger la proie",
         "description": {
-          "text": "Sobek charge à grande vitesse. Il s'arrête au premier ennemi percuté, lui inflige des dégâts et le lance derrière lui. Sobek ne peut pas être projeté pendant sa course.",
+          "text": "Sobek charge à grande vitesse. Il s'arrête au premier ennemi percuté, devient brièvement immunisé aux contrôles, puis lui inflige des dégâts et le lance derrière lui. Sobek ne peut pas être projeté pendant sa course.",
           "details": [
             "Dégâts : 70/110/150/190/230 (+50% de la puissance magique)"
           ]
@@ -17378,6 +17421,130 @@
     ]
   },
   {
+    "name": "Surtr",
+    "title": "Le géant de feu",
+    "banner": "https://webcdn.hirezstudios.com/smite-media/wp-content/uploads/2560x917_Surtr.jpg",
+    "specifications": [
+      {
+        "name": "Guerrier",
+        "iconHtml": "&#59688"
+      },
+      {
+        "name": "Nordique",
+        "iconHtml": "&#59686"
+      },
+      {
+        "name": "Mêlée",
+        "iconHtml": "&#59663"
+      },
+      {
+        "name": "Physique",
+        "iconHtml": "&#59664"
+      }
+    ],
+    "abilities": [
+      {
+        "video": "https://www.youtube-nocookie.com/embed/HREETMfIo8c?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/flames-of-muspell.jpg",
+        "key": "1",
+        "name": "Flammes de Muspell",
+        "description": {
+          "text": "Surtr enflamme son épée et profite alors de l'effet d'Accélération. Sa prochaine attaque de base réussie inflige des dégâts magiques supplémentaires et embrase sa cible. Celle-ci subit des dégâts périodiques et fait apparaître un diablotin de feu.\n\nLes dégâts bonus de l'attaque augmentent chaque fois qu'un ennemi meurt tout en étant atteint par la brûlure (200 charges au max.).",
+          "details": [
+            "Dégâts périodiques : 10/25/40/55/70 (10% de la puissance physique) par seconde pendant 3s",
+            "Dégâts initiaux : 30 + 3 par charge (magiques)",
+            "Dégâts du diablotin : 10/15/20/25/30 (10% de la puissance physique)",
+            "PV du diablotin : 50 + 50 par rang",
+            "Durée du diablotin : 10s"
+          ]
+        }
+      },
+      {
+        "video": "https://www.youtube-nocookie.com/embed/D8crZEoqk_I?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/giants-grasp.jpg",
+        "key": "2",
+        "name": "Prodigieuse poigne",
+        "description": {
+          "text": "Surtr attire jusqu'à lui le sbire de couloir adverse ou le diablotin de feu le plus proche (s'il n'y en a aucun à portée, il attire une pierre volcanique). Ensuite, il propulse cette cible vers l'avant pour infliger des dégâts et étourdir les ennemis atteints.\n\nPierre volcanique – S'arrête au premier ennemi percuté.\nSbire de couloir – Traverse les sbires, s'arrête au premier dieu percuté.\nDiablotin de feu – Traverse les sbires, s'arrête au premier dieu percuté et explose.",
+          "details": [
+            "Dégâts : 90/145/200/255/310 (70% de la puissance physique)",
+            "Dégâts d'explosion en zone : 30/60/90/120/150 (30% de la puissance physique)",
+            "Étourdissement : 1.2s"
+          ]
+        }
+      },
+      {
+        "video": "https://www.youtube-nocookie.com/embed/xtDoeUqn0xU?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/emberwalk.jpg",
+        "key": "3",
+        "name": "Marchebraise",
+        "description": {
+          "text": "La furie de Surtr matérialise des braises en cercle autour de lui. La zone formée donne un bonus de vitesse de déplacement, qui augmente quand Surtr atteint des ennemis.\nLe cercle inflige des dégâts et ralentit les ennemis une première fois quand il s'élargit, puis une seconde fois quand il se rétracte.\nUne fois formé, le cercle extérieur inflige des dégâts aux ennemis présents. Il récupère automatiquement les morceaux de Chair d'obsidienne.",
+          "details": [
+            "Dégâts : 35/55/75/95/115 (20% de la puissance physique)",
+            "Dégâts bonus : 10/15/20/25/30 (+5% de la puissance physique)",
+            "Bonus de vitesse : 10% + 5% par ennemi atteint (cumulable 4 fois)",
+            "Malus de vitesse : 20% pendant 2s",
+            "Durée : 4s"
+          ]
+        }
+      },
+      {
+        "video": "https://www.youtube-nocookie.com/embed/JVAm2V7becE?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/end-of-days.jpg",
+        "key": "4",
+        "name": "Fin des temps",
+        "description": {
+          "text": "Après un bref délai, Surtr s'élève dans les airs et se transforme en un immense météore immunisé aux dégâts. Il contrôle sa trajectoire.\n\nDes météorites se détachent de lui en infligeant des dégâts et libérant des diablotins de feu.\n\nÀ l'atterrissage, le météore inflige des dégâts et projette les ennemis atteints.",
+          "details": [
+            "Dégâts : 210/285/360/435/510 (60% de la puissance physique)",
+            "Dégâts des météorites : 50/75/100/125/150 (+15% de la puissance physique)"
+          ]
+        }
+      },
+      {
+        "video": "https://www.youtube-nocookie.com/embed/7r9lm0lgo-E?theme=dark&controls=0&color=white&autohide=1&modestbranding=1&showinfo=0&rel=0&hd=1",
+        "image": "https://webcdn.hirezstudios.com/smite/god-abilities/obsidian-flesh.jpg",
+        "key": "Passif",
+        "name": "Chair d'obsidienne",
+        "description": {
+          "text": "La chair de Surtr tombe en morceaux quand il perd une certaine quantité de PV. Il peut alors les ramasser pour obtenir un soin et un bonus de protections pendant 3s (cumulable 3 fois). Ses adversaires détruisent les morceaux quand ils marchent dessus.",
+          "details": [
+            "Soins périodiques : 1% des PV max",
+            "Protections : 6 + 1 par niveau",
+            "Seuil de PV : 15%"
+          ]
+        }
+      }
+    ],
+    "history": {
+      "video": "https://www.youtube-nocookie.com/embed/pE4zAZwVWBc",
+      "text": "On sait peu de choses à propos de Surtr, le géant de feu. Ses origines sont nimbées dans la fumée des forges ; ses secrets reposent dans les cendres de son royaume ardent. Même l'omniscient Odin ne sait quelle étincelle a allumé le feu de Surtr. Il connaît toutefois son destin. C'est celui de tous les dieux et de tous les humains, car Surtr est l'incarnation même du feu qui réduira l'ancien monde en cendres afin qu'un nouveau le remplace.La légende veut que lorsque le puissant Surtr quittera son poste à la frontière de Muspell, les cieux s'effondreront, la terre brûlera et les guerriers marcheront sous les ordres de Hel. Brandissant son épée éclatante, Surtr mènera alors les fils de Muspell au combat contre les dieux nordiques... et triomphera, plongeant le monde dans ses flammes.Mais en attendant ce jour, Surtr monte la garde contre quiconque ose envahir les terres de son peuple, mortel ou non. Or, au fil des millénaires, bien des dieux sont entrés sur son territoire. Certains pour accomplir une quête, d'autres pour relever un défi. Ces incursions dans Muspell pourraient bien avoir été encouragées par Odin, afin de mettre à l'épreuve la vigilance de Surtr. On raconte aussi que les dieux nordiques tenteraient d'affaiblir Surtr avec des batailles incessantes. Quoi qu'il en soit, le géant de feu a affronté les immortels à maintes reprises, goûtant bien souvent à la défaite.Sans cesse, Surtr tombe au combat mais se relève plus fort, telle une flamme ravivée. À chaque revers, son courroux gagne en ardeur... tout comme ses velléités guerrières à l'encontre de ses geôliers, ceux qui voudraient le maintenir, lui et tout son peuple, en captivité pour l'éternité. Alors bientôt – et peut-être plus tôt que ne le pensent les dieux – Surtr quittera son poste et déclenchera la fin du monde."
+    },
+    "skins": [
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_standard-surtr.jpg",
+        "name": "Surtr Standard",
+        "type": "Normal"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_ascended.jpg",
+        "name": "Ascendance",
+        "type": "Permanent"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_golden.jpg",
+        "name": "Doré",
+        "type": "Normal"
+      },
+      {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/surtr_azure-flames.jpg",
+        "name": "Flammes d'azur",
+        "type": "Normal"
+      }
+    ]
+  },
+  {
     "name": "Susano",
     "title": "Dieu de l'orage d'été",
     "banner": "https://cms.smitegame.com/wp-content/uploads/2017/07/Susano.jpg",
@@ -17741,7 +17908,7 @@
         "key": "2",
         "name": "Déluge de malveillance",
         "description": {
-          "text": "Tchernobog expulse un éclat de cristal surdéveloppé qui transperce les ennemis en leur infligeant des dégâts d'attaque de base.Il leur applique aussi une charge de Cœur glacé et fait exploser les Malédictions cristallisées. En parallèle, la vitesse d'attaque de Tchernobog augmente brièvement.",
+          "text": "Tchernobog expulse un éclat de cristal surdéveloppé qui transperce les ennemis en leur infligeant des dégâts d'attaque de base. Il leur applique aussi une charge de Cœur glacé et fait exploser les Malédictions cristallisées. En parallèle, la vitesse d'attaque de Tchernobog augmente brièvement.",
           "details": [
             "Vitesse d'attaque : 40/45/50/55/60%",
             "Durée : 3/3.5/4/4.5/5s"
@@ -17767,7 +17934,7 @@
         "key": "4",
         "name": "En plein cauchemar",
         "description": {
-          "text": "Après une brève canalisation, Tchernobog invoque sur chaque dieu ennemi une ombre de lui-même qui dure 8s et applique un ralentissement cumulatif.Tchernobog peut s'envoler vers l'ombre de son choix et, une fois à destination, il prend sa place. Ses temps de recharge sont alors réinitialisés, il subit moins de dégâts et se déplace plus vite.",
+          "text": "Après une brève canalisation, Tchernobog invoque sur chaque dieu ennemi une ombre de lui-même qui dure 8s et applique un ralentissement cumulatif. Tchernobog peut s'envoler vers l'ombre de son choix et, une fois à destination, il prend sa place. Ses temps de recharge sont alors réinitialisés, il subit moins de dégâts et se déplace plus vite.",
           "details": [
             "Durée du bonus : 6s",
             "Réduction des dégâts : 10/12.5/15/17.5/20%",
@@ -17889,7 +18056,7 @@
         "key": "2",
         "name": "Terre écrasante",
         "description": {
-          "text": "Terra érige deux murs de menhirs sur un emplacement ciblé. Elle peut réactiver la compétence pour les faire s'écraser l'un contre l'autre, ce qui inflige des dégâts et étourdit les ennemis touchés pour 1,5s.\n\n\r\n\r\nSi elle choisit plutôt de détruire ces menhirs avec Force de la nature, chacun inflige des dégâts dans une zone en cône.",
+          "text": "Terra érige deux murs de menhirs sur un emplacement ciblé. Elle peut réactiver la compétence pour les faire s'écraser l'un contre l'autre, ce qui inflige des dégâts et étourdit les ennemis touchés pour 1,5s. \n\nSi elle choisit plutôt de détruire ces menhirs avec Force de la nature, chacun inflige des dégâts dans une zone en cône.",
           "details": [
             "Durée des murs : 5s",
             "Dégâts par mur : 50/85/120/155/190 (+35% de la puissance magique)",
@@ -17919,7 +18086,7 @@
         "key": "4",
         "name": "Furie terrestre",
         "description": {
-          "text": "Terra communique sa force autour d'elle, ce qui applique un bonus à ses alliés et un malus à ses ennemis pendant 10s.\n\r\nLes alliés subissent 5% de dégâts en moins et 4 pierres apparaissent autour d'eux. Si elles sont toutes activées, elles les soignent instantanément puis sur la durée.\n\r\nLes ennemis subissent 5% de dégâts en plus, et 4 pierres apparaissent autour d'eux. Si elles sont toutes activées, elles leur infligent des dégâts.\n\r\nLes pierres s'activent lorsque leur porteur subit des dégâts.",
+          "text": "Terra communique sa force autour d'elle, ce qui applique un bonus à ses alliés et un malus à ses ennemis pendant 10s. \nLes alliés subissent 5% de dégâts en moins et 4 pierres apparaissent autour d'eux. Si elles sont toutes activées, elles les soignent instantanément puis sur la durée. \nLes ennemis subissent 5% de dégâts en plus, et 4 pierres apparaissent autour d'eux. Si elles sont toutes activées, elles leur infligent des dégâts. \nLes pierres s'activent lorsque leur porteur subit des dégâts.",
           "details": [
             "Guérison : 100/150/200/250/300 (+30% de la puissance magique)",
             "Dégâts : 200/250/300/350/400 (+60% de la puissance magique)",
@@ -18678,6 +18845,11 @@
         "type": "Exclusif"
       },
       {
+        "image": "https://webcdn.hirezstudios.com/smite/god-skins/tiamat_nicol-bolas.jpg",
+        "name": "Nicol Bolas",
+        "type": "Crossover"
+      },
+      {
         "image": "https://webcdn.hirezstudios.com/smite/god-skins/tiamat_plushie.jpg",
         "name": "Peluche",
         "type": "Exclusif"
@@ -18715,7 +18887,7 @@
         "description": {
           "text": "Tsukuyomi fait appel à Shingetsu et matérialise un shuriken Sombrelune qu'il propulse en avant. Il inflige des dégâts et traverse les ennemis, et reste planté dans le premier dieu touché. Alors, si Tsukuyomi s'approche du dieu, il récupère le shuriken et réduit le temps de recharge de cette compétence. <font color='#b18cd9'>Après l'activation, la prochaine attaque de base de Shingetsu tire un projectile qui vole de la vitesse de déplacement.</font>",
           "details": [
-            "Dégâts du shuriken : 75/125/175/225/275 (+80% de la puissance physique)",
+            "Dégâts du shuriken : 85/135/185/235/285 (+80% de la puissance physique)",
             "Réduction du temps de recharge : 4s",
             "Vol de vitesse : 25%"
           ]
@@ -18759,7 +18931,7 @@
           "text": "Tsukuyomi canalise la pleine lune, il est alors immunisé aux contrôles et subit 20% de dégâts en moins. Il propulse 4 rayons successifs qui traversent les ennemis en infligeant des dégâts aux dieux (maximum 3 dieux par rayon). Ensuite, Tsukuyomi fonce transpercer chaque cible touchée par un rayon, dans l'ordre. Si l'effet élimine un dieu, la prochaine attaque de chaque tonfa tire son projectile spécial.",
           "details": [
             "Dégâts des rayons : 30/50/70/90/110 (+15% de la puissance physique)",
-            "Dégâts de Tsukuyomi : 70/100/130/160/190 (+45% de la puissance physique)"
+            "Dégâts de Tsukuyomi : 70/100/130/160/190 (+50% de la puissance physique)"
           ]
         }
       },
@@ -18769,10 +18941,10 @@
         "key": "Passif",
         "name": "Shingetsu & Mangetsu",
         "description": {
-          "text": "",
+          "text": "Tsukuyomi frappe avec Shingetsu de la main gauche, et avec Mangetsu de la main droite. Si l'une d'elles touche un ennemi, elle est renforcée. <font color='#b18cd9'>Shingetsu renforcée redonne des PM et touche une petite zone en infligeant 50% des dégâts normaux.</font> <font color='#DFEAFA'>Mangetsu renforcée redonne des PV et inflige des dégâts bonus.</font>",
           "details": [
-            "Restauration de mana : 2 (+15% de la puissance physique)",
-            "Restauration des PV : 2 (+15% de la puissance physique)",
+            "PM regagnés : 2 (+15% de la puissance physique)",
+            "PV regagnés : 2 (+15% de la puissance physique)",
             "Dégâts bonus : 2 (+15% de la puissance physique)"
           ]
         }
@@ -18859,7 +19031,7 @@
         "key": "1",
         "name": "Intrépide",
         "description": {
-          "text": "Tyr se précipite en avant. Il est immunisé aux projections et inflige des dégâts aux ennemis.Posture d'assaut : Tyr entraîne les ennemis percutés dans sa course, les frappe 2 fois et les projette. Posture de garde : Tyr traverse les ennemis, les frappe 1 fois et les projette.",
+          "text": "Tyr se précipite en avant. Il est immunisé aux projections et inflige des dégâts aux ennemis. Posture d'assaut : Tyr entraîne les ennemis percutés dans sa course, les frappe 2 fois et les projette. Posture de garde : Tyr traverse les ennemis, les frappe 1 fois et les projette.",
           "details": [
             "Dégâts en assaut : 40/90/140/190/240 (+50% de la puissance physique)",
             "Dégâts en garde : 70/120/170/220/270 (+50% de la puissance physique)"
